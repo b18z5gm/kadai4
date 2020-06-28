@@ -12,3 +12,5 @@ do
 done
 
 echo "$gcd"
+
+
